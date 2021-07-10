@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="contentDescription">Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="weather_head">Weather</string>
+    <string name="CurrentWeather_head">Current Weather</string>
+    <string name="WeatherHistory_head">Weather History</string>
+    <string name="Image">Image</string>
+    <string name="todo">TODO</string>
+    <string name="london_uk">London,Uk</string>
+    <string name="WeatherForecast_head">WEATHER FORECAST</string>
+    <string name="force_dark_mode">Force Dark Mode</string>
+</resources>
